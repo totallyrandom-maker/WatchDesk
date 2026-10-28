@@ -1,0 +1,9 @@
+## Interface: 20506
+## Title: Watch Desk
+## Notes: Item checklist, auction scanning, manual buying and bait posting.
+## Version: 0.1.0
+## SavedVariables: WatchDeskDB
+
+Bootstrap.lua
+Engine.lua
+Window.lua
